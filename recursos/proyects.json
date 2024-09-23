@@ -1,0 +1,47 @@
+[
+    {
+        "imagen": "Pokedex.png",
+        "nombre": "¿Quién es ese Pokémon?",
+        "descripcion": "Te hará recordar a la serie de pokémon, en donde salía la silueta de un pokémon y tú tenías que adivinar el nombre de dicho pokemon.",
+        "linkDeploy": "https://bsilvaflores.github.io/pokedex-deploy/",
+        "linkGithub": "https://github.com/BSilvaFlores/Pokedex"
+    },
+
+    {
+        "imagen": "Tienda-de-juegos.png",
+        "nombre": "Tienda de juegos",
+        "descripcion": "Tienda de juegos divididos en varias categorías, con carrito de compras y simulación de una venta.",
+        "linkDeploy": "https://bsilvaflores.github.io/tienda-videojuegos-deploy/",
+        "linkGithub": "https://github.com/BSilvaFlores/tienda-videojuegosNuevo"
+    },
+
+    {
+        "imagen": "Cuppon.png",
+        "nombre": "Cuppon",
+        "descripcion": "Proyecto sencillo, en donde se utiliza bootstrap para un diseño responsivo.",
+        "linkDeploy": "https://bsilvaflores.github.io/cuppon/",
+        "linkGithub": "https://github.com/BSilvaFlores/cuppon"
+    },
+
+    {
+        "imagen": "Viajes-Chile.png",
+        "nombre": "Viajes Chile",
+        "descripcion": "Página para ver destinos de viajes por nuestro país Chile, tambien es responsivo.",
+        "linkDeploy": "https://bsilvaflores.github.io/Prueba-ViajesChile/",
+        "linkGithub": "https://github.com/BSilvaFlores/Prueba-ViajesChile"
+    },
+    {
+        "imagen": "Portafolio-Peter-Parker.png",
+        "nombre": "Portafolio Peter Parker",
+        "descripcion": "Diseño de un portafolio de demostracíon, también se utilizó bootstrap, con sistema de grilla, para hacerlo responsivo.",
+        "linkDeploy": "https://bsilvaflores.github.io/portafolio-PeterParker/",
+        "linkGithub": "https://github.com/BSilvaFlores/portafolio-PeterParker"
+    },
+    {
+        "imagen": "Suricata.png",
+        "nombre": "Suricata",
+        "descripcion": "Diseño de una página, utilizando una buena paleta de colores.",
+        "linkDeploy": "https://bsilvaflores.github.io/suricata/",
+        "linkGithub": "https://github.com/BSilvaFlores/suricata"
+    }
+]
