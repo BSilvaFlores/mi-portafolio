@@ -2,7 +2,7 @@
     {
         "imagen": "Pokedex.png",
         "nombre": "¿Quién es ese Pokémon?",
-        "descripcion": "Te hará recordar a la serie de pokémon, en donde salía la silueta de un pokémon y tú tenías que adivinar el nombre de dicho pokemon.",
+        "descripcion": "Viendo la silueta debes adivinar que pokemón es, el proyecto está hecho con Vue.js, html, css, javascript, bootstrap y para la conexión con la api se utilizó axios",
         "linkDeploy": "https://bsilvaflores.github.io/pokedex-deploy/",
         "linkGithub": "https://github.com/BSilvaFlores/Pokedex"
     },
@@ -10,15 +10,23 @@
     {
         "imagen": "Tienda-de-juegos.png",
         "nombre": "Tienda de juegos",
-        "descripcion": "Tienda de juegos divididos en varias categorías, con carrito de compras y simulación de una venta.",
+        "descripcion": "Tienda de juegos con carrito de compras y simulación de una venta. Proyecto realizado con Vue.js, html, css, javascript, vue-router, vuex, bootstrap",
         "linkDeploy": "https://bsilvaflores.github.io/tienda-videojuegos-deploy/",
         "linkGithub": "https://github.com/BSilvaFlores/tienda-videojuegosNuevo"
     },
 
     {
+        "imagen": "Sistema-de-registros.png",
+        "nombre": "Sistema registro de ventas",
+        "descripcion": "Sistema de ventas con un CRUD, hecho con Vue.js v2, vuetify2, html, css, sweetalert para mensajes de alerta atractivos, javascript, para base de datos Mongo DB",
+        "linkDeploy": "",
+        "linkGithub": "https://github.com/BSilvaFlores/proyecto-vestuario"
+    },
+
+    {
         "imagen": "Cuppon.png",
         "nombre": "Cuppon",
-        "descripcion": "Proyecto sencillo, en donde se utiliza bootstrap para un diseño responsivo.",
+        "descripcion": "Proyecto sencillo, en donde se utiliza html, css, bootstrap para un diseño responsivo.",
         "linkDeploy": "https://bsilvaflores.github.io/cuppon/",
         "linkGithub": "https://github.com/BSilvaFlores/cuppon"
     },
@@ -26,21 +34,21 @@
     {
         "imagen": "Viajes-Chile.png",
         "nombre": "Viajes Chile",
-        "descripcion": "Página para ver destinos de viajes por nuestro país Chile, tambien es responsivo.",
+        "descripcion": "Página con html y css, tambien es responsivo.",
         "linkDeploy": "https://bsilvaflores.github.io/Prueba-ViajesChile/",
         "linkGithub": "https://github.com/BSilvaFlores/Prueba-ViajesChile"
     },
     {
         "imagen": "Portafolio-Peter-Parker.png",
         "nombre": "Portafolio Peter Parker",
-        "descripcion": "Diseño de un portafolio de demostracíon, también se utilizó bootstrap, con sistema de grilla, para hacerlo responsivo.",
+        "descripcion": "Diseño de un portafolio de demostracíon con html, css, se utilizó bootstrap con sistema de grilla, para hacerlo responsivo.",
         "linkDeploy": "https://bsilvaflores.github.io/portafolio-PeterParker/",
         "linkGithub": "https://github.com/BSilvaFlores/portafolio-PeterParker"
     },
     {
         "imagen": "Suricata.png",
         "nombre": "Suricata",
-        "descripcion": "Diseño de una página, utilizando una buena paleta de colores.",
+        "descripcion": "Diseño de una página, utilizando una buena paleta de colores. Hecho con html, css",
         "linkDeploy": "https://bsilvaflores.github.io/suricata/",
         "linkGithub": "https://github.com/BSilvaFlores/suricata"
     }
